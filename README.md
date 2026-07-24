@@ -77,7 +77,7 @@ npm run dev
 **Muhammad Bilal**
 
 - GitHub: https://github.com/kWD36768
-- LinkedIn: https://www.linkedin.com/in/muhammad-bilal-/
+- LinkedIn: www.linkedin.com/in/muhammad-bilal-a00aa7336
 
 ---
 
