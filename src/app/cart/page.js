@@ -145,7 +145,6 @@ detail : 'Have you ever finally just'
 }]
   return (
     <>
-          {/* ---- header ----- */}
 
 
       {/*----- web cart -----*/}

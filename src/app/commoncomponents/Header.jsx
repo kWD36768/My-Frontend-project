@@ -13,7 +13,7 @@ import image5 from "./../../../public/cart.png";
 import { FiAlignJustify } from "react-icons/fi";
 import { RiArrowDropDownLine } from "react-icons/ri";
 
-const Header = () => {
+ const Header = () => {
   const pathname = usePathname();
 
   const activeClass = (path) =>
