@@ -1,7 +1,7 @@
 ## 🛒 E-Commerce Frontend Website
 
 <p align="center">
-  <strong>A modern e-commerce frontend built using React.js, JavaScript, HTML5, and CSS3.</strong>
+  <strong>A modern E-Commerce frontend built using Next.js, React.js, JavaScript, HTML5 and CSS3.</strong>
 </p>
 
 ---
@@ -25,6 +25,7 @@ This is a modern e-commerce frontend application developed using **React.js**, *
 
 ## 🛠️ Technologies Used
 
+- Next.js
 - React.js
 - JavaScript (ES6+)
 - HTML5
@@ -35,12 +36,10 @@ This is a modern e-commerce frontend application developed using **React.js**, *
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kWD36768/My-Frontend-project.git
 
-cd your-repository
-
+cd My-Frontend-project
 npm install
-
 npm run dev
 ```
 
