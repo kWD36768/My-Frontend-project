@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import { IoIosArrowUp , IoIosArrowDown } from "react-icons/io";
 
-const page = () => {
+const Page = () => {
     const [ifopen, setIfopen]= useState(true); 
   return (
     <div>

@@ -38,7 +38,7 @@ import { MdVerifiedUser } from "react-icons/md";
 import { TbWorld } from "react-icons/tb";
 import { FaRegHeart } from "react-icons/fa6";
 
-const shirts = () => {
+const Shirts = () => {
 
    const [activeTabCat, setActiveTabCat] = useState("Description");
    const [activeimage , setactiveimage]  = useState(image8);
@@ -406,7 +406,7 @@ const shirts = () => {
                   </button>
                   <button className="text-[#0E79FF] cursor-pointer w-[100%] p-2 rounded mt-2 border-1 border-[#dfdddd] border-[#E5E7EC]  ">
                     {" "}
-                    Seller's Profile
+                    Sellers Profile
                   </button>
                 </div>
               </div>

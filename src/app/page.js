@@ -544,7 +544,7 @@ export default function Home() {
                     <div className="">{/* <Image src={image2} /> */}</div>
                     <div>
                       <p className="font-semibold">
-                        Hi user <br /> let's get started
+                        Hi user <br /> lets get started
                       </p>
                     </div>
                   </div>
@@ -684,7 +684,7 @@ export default function Home() {
                         </div>
 
                         <div className="smallimg w-[67px]  h-[69px] pt-[35px] ml-[30px]">
-                          <Image src={item.img} />
+                          <Image src={item.img}  alt="Product Image"/>
                         </div>
                       </div>
                     ))}
