@@ -405,7 +405,7 @@ export default function Home() {
     {
       id: 2,
       img: image40,
-      title: " Cameras",
+      title: "Cameras",
       price: "from USD 89",
     },
 
