@@ -44,7 +44,7 @@ import image17 from  '../assets/5.jpg';
 import image18 from  '../assets/3.jpg';
 import image19 from  '../assets/8.jpg';
 
-const page = () => {
+const Page = () => {
     const carttab = [{
         id : 1,
         img :image1,
@@ -445,4 +445,4 @@ detail : 'Have you ever finally just'
   )
 }
 
-export default page
+export default Page

@@ -586,4 +586,4 @@ const Shirts = () => {
   );
 };
 
-export default shirts;
+export default Shirts;
