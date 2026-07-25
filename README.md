@@ -26,7 +26,7 @@ This is a modern e-commerce frontend application developed using **React.js**, *
 
 ## 🛠️ Technologies Used
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28g"/> Next.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22"/> Next.js  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React.js  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript (ES6+)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> HTML5  
@@ -66,9 +66,7 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
 
-🔗 https://my-frontend-project-fawn.vercel.app
 
 ---
 
