@@ -25,12 +25,13 @@ This is a modern e-commerce frontend application developed using **React.js**, *
 
 ## 🛠️ Technologies Used
 
-- Next.js
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+## 🛠️ Technologies Used
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22"/> Next.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript (ES6+)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> CSS3
 ---
 
 ## 🚀 Installation
@@ -49,7 +50,7 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home.jpeg
+![Home Page](./screenshots/home.jpeg)
 
 
 ![Home Page](./screenshots/h2.jpeg)
